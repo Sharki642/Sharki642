@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Bruno 
 
-<!--
-**Sharki642/Sharki642** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at an Austrian technical school (HTL) with a focus on **electronics & embedded systems**.
+I build my own hardware and software under the name **embevel**.
 
-Here are some ideas to get you started:
+##  What I'm working on
+- **Macropad** – ESP32-S3, 4×4 keys, multiple modes
+- **HomeCon** – smart home controller with gesture and IR control
+- **Simple-Graphics-Engine** – small C++ engine for drawing triangles
+- **Bitcoin Tracker** – Python + PySide6
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Tech
+`C/C++` `Python` `ESP32` `PCB Design` `Linux`
+
+##  Contact
+bruno.landrichter@gmail.com
