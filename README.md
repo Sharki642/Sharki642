@@ -9,4 +9,4 @@ I like to build my own hardware and software.
 - **Bitcoin Tracker** – Python + PySide6
 
 ##  Tech
-`C/C++` `Python` `Java` `Backend `ESP32` `PCB Design` `Linux`
+`C/C++` `Python` `Java` `Backend` `ESP32` `PCB Design` `Linux`
